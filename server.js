@@ -16,7 +16,7 @@ mongoose.connect('mongodb+srv://<username>:<password>@cluster0.yourmongodb.net/t
   useUnifiedTopology: true,
 });
 
-// Replace with your actual username and password from MongoDB Atlas
+
 
 // Routes
 // Get all tasks
